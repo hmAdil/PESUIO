@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./Jupyter Notebooks/Assignments/fashion-mnist-master/utils"
+    ]
+}
